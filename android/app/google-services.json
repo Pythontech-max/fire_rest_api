@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043769431249",
+    "project_id": "firerestapi-c3706",
+    "storage_bucket": "firerestapi-c3706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043769431249:android:08b47d1bf8c9037dfe61f0",
+        "android_client_info": {
+          "package_name": "com.example.fire_rest_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043769431249-t12fjmi16gq1svvh6je088impsu1r946.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_rest_api",
+            "certificate_hash": "c34a19fdf6d48e6e0924cbc375377e154c4590e7"
+          }
+        },
+        {
+          "client_id": "1043769431249-droku4kdqo4ehuoeep47vp6iobfljn77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-Vohe66YJiMvDNJvWARkXlYLSwCrRKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043769431249-droku4kdqo4ehuoeep47vp6iobfljn77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
