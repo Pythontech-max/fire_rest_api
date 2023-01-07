@@ -9,6 +9,9 @@ class Keys {
       SnackBar(
         content: Text(message),
         backgroundColor: Colors.red,
+        behavior: SnackBarBehavior.floating,
+        dismissDirection: DismissDirection.horizontal,
+
       ),
     );
   }
